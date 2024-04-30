@@ -38,7 +38,7 @@ This desktop application is a simple To-Do list manager built using Python and T
 
 ## Contributing
 
-Contributions are welcome! Feel free to open issues and pull requests.
+Contributions are welcome, feel free to open issues and pull requests.
 
 ## License
 
