@@ -19,9 +19,9 @@ This desktop application is a simple To-Do list manager built using Python and T
 ## Installation
 
 1. Clone this repository:
-   `git clone https://github.com/TechDanny/ToDo-List-Application`
+   `git clone https://github.com/TechDanny/ToDo-List-Application.git`
 2. Navigate to the project directory:
-   `cd ToDo-List-Application.git`
+   `cd ToDo-List-Application`
 3. Install the required Python packages:
    `pip install -r requirements.txt`
 
