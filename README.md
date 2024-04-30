@@ -13,7 +13,7 @@ This desktop application is a simple To-Do list manager built using Python and T
 
 ## Prerequisites
 
-- Python 3.x installed on your system
+- Python3 installed on your system
 - MongoDB installed and running on localhost:27017
 
 ## Installation
