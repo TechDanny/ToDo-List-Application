@@ -27,7 +27,7 @@ This desktop application is a simple To-Do list manager built using Python and T
 
 ## Usage
 
-1. Run the application by executing the `app.py` file in the current directory:
+1. Run the application by executing the `app.py` file:
 2. The application will open with a sign-up page. If you are a new user, sign up to create an account. If you are an existing user, log in with your credentials.
 
 ## How to Use
